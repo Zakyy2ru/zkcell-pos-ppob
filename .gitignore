@@ -1,0 +1,8 @@
+# Folder library berat (jangan di-upload ke GitHub)
+node_modules/
+
+# File rahasia (akan otomatis disembunyikan dari GitHub)
+.env
+backend/.env
+frontend/.env
+.env.local
